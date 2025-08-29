@@ -6,3 +6,4 @@ dist/
 *.pyc
 coverage/
 tmp/
+.pytest_cache/
