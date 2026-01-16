@@ -21,3 +21,4 @@ Notes and usage details for launchweek.dev.
 - add a note about the defaults
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
